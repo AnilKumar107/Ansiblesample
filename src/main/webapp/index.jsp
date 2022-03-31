@@ -8,6 +8,6 @@ String version=resource.getString("version");%>
 <body>
 <h2> War file deployed into amazon EC2 instance using github 
 "Success"</h2>
- <h3> First CI CD project completed successfully with ansible configiuration </h3>
+ <h3> Ansible project is completed successufully with CICD approach </h3>
 </body>
 </html>
