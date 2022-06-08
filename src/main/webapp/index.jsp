@@ -12,6 +12,6 @@ String version=resource.getString("version");%>
  <h4>Welcome to the CICD pipeline concept</h4
  <h5>gitclasses</h5>
  <h5>First CICD project is completed with pipeline and moved to s3 bucket</h5>
- <h6>Ansible project is completed with Freestyle job</h6>
+ <h6>Ansible project is completed with Freestyl job and roles concept</h6>
 </body>
 </html>
