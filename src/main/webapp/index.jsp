@@ -15,4 +15,4 @@ String version=resource.getString("version");%>
  <h6>Ansible project is completed with Freestyl job and roles concept by using jenkins</h6>
  <h7>first job from jenkins for 10AM btach triggered</h7>
 </body>
-</html
+
