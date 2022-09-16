@@ -15,6 +15,7 @@ String version=resource.getString("version");%>
  <h7>first job from jenkins for 10AM btach triggered</h7>
  <h8>First project is completed with CICD by using free style for s3 bucket</h8>
  <h9>New Project is completed by using CICD approach for btach10 AM new</h9>
+ <h10>Hi welcome</h10>
 </body>
 </html>
 
