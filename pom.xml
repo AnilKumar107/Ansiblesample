@@ -21,7 +21,7 @@
 			<plugin>
 				<groupId>org.apache.tomcat.maven</groupId>
 				<artifactId>tomcat7-maven-plugin</artifactId>
-				<version>2.2</version>
+				<version>3.2.3</version>
 				<configuration>
 				<path>/${project.artifactId}##${project.version}</path>
 				<url>http://3.22.63.75:8080/manager/text</url>
